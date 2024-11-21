@@ -1,1 +1,1 @@
-"Привет, это тНикита"
+Hello, world! It's my program
